@@ -1,5 +1,11 @@
 # 🔍 YouTube Playlist Video ID Extractor
 
+---
+
+🇧🇷 Versão em Português Brasileiro:
+
+---
+
 Este projeto em Python coleta os **IDs dos vídeos** de uma playlist do YouTube, utilizando a **YouTube Data API v3**. Ele é útil para quem deseja extrair os identificadores de vídeos para análises, backups ou integrações com outras ferramentas.
 
 ---
@@ -25,7 +31,9 @@ pip install google-api-python-client
 
 ---
 
-# 🔍 YouTube Playlist Video ID Extractor
+🇺🇸 US Version:
+
+---
 
 This Python project collects **video IDs** from a YouTube playlist using the **YouTube Data API v3**. It is useful for those who want to extract video identifiers for analysis, backups, or integration with other tools.
 
