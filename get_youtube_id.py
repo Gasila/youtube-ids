@@ -1,7 +1,7 @@
 import requests
 
 API_KEY = "API_KEY"  # Substitua pela sua chave de API
-PLAYLIST_URL = "PLAYLIST_LINK"
+PLAYLIST_URL = "PLAYLIST_LINK" #Link da Playlist
 
 # Extrair o ID da playlist do link
 import urllib.parse as urlparse
